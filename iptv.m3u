@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Azad Azerbaycan
-https://ecanlitv2.etvserver.com:8081/azadtv.m3u8?tkn=sCln9Oa9hOYz0O-ud_Almg&tms=1610466047
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:-1,AzTV
 http://85.132.53.56/azerbaijan2/aztv_stream2/playlist.m3u8
 #EXTINF:-1,Ictimai
