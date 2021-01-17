@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Azad Azerbaycan
-http://85.132.81.184:8080/atv/index.m3u8
+http://85.132.53.56/azerbaijan2/atv_sd_stream4/playlist.m3u8
 #EXTINF:-1,AzTV
-https://lotus.tvizlehd.com/aztv.m3u8?tkn=KJTMbGNKrngnilYee5w2Zg&tms=1610824879&hst=www.canlitv.today
+http://85.132.53.56/azerbaijan2/aztv_stream2/playlist.m3u8
 #EXTINF:-1,Ictimai
 http://85.132.53.56/azerbaijan2/ictimai_stream2/playlist.m3u8
 #EXTINF:-1,Xezer TV
-https://zahir.tvizlehd.com/xezertv.m3u8?tkn=vbdsJMYudwwkFlfW-i354A&tms=1610655447&hst=www.canlitv.vin
+http://85.132.53.56/azerbaijan2/xazar_sd_stream_2/playlist.m3u8
 #EXTINF:-1,Space
 http://85.132.53.56/azerbaijan2/space_stream/playlist.m3u8
 #EXTINF:-1,CBC
