@@ -31,7 +31,52 @@ https://rtmp.baku.tv/live/bakutv_720p.m3u8
 
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png",TRT 1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
-
+#EXTINF:-0,KRAL TV HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-0,KRAL POP HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-0,KRAL POP AKUSTIK
+http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
+#EXTINF:-0,KRAL POP KONSER
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+#EXTINF:-0,KRAL PERFORMANS
+http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
+#EXTINF:-0,KRAL 90´ LAR TV
+http://cf2wcwwd.rocketcdn.com/kraldijital-doksanlartv.smil/chunklist.m3u8
+#EXTINF:-0,KRAL WORLD
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8
+#EXTINF:-0,POWER TV
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
+#EXTINF:-0,POWER TV alt2
+https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-0,POWERTÜRK TV
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
+#EXTINF:-0,POWERTÜRK TV alt2
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-0,Leblebi TV
+http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/chunklist.m3u8
+#EXTINF:-0,Number 1
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-0,Number 1 Türk
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-0,Number 1 Damar
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-0,Number 1 Aşk
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-0,Number 1 Dance
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-0,SLOW KARADENIZ TV
+http://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
+#EXTINF:-0,Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-0,Radyo Kulüp TV alt2
+https://59cba4d34b678.streamlock.net/canlitv/radyokuluptv/chunklist.m3u8
+#EXTINF:-0,Damar TV
+http://51.255.7.18:8080/hls/damar.m3u8
+#EXTINF:0,Vatan TV
+http://ch.canlitvlive.io/vatantv/live.m3u8
+#EXTINF:-0,Finest TV
+http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3FVD4mV/atv.png",ATV
 http://185.129.1.242/atvhd/mpegts
 
